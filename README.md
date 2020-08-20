@@ -13,13 +13,13 @@ A camera calibration script in python using an xml configuration file.
 For calibration or load the camera parameters first you must set the xml file for specify where the calibration file will be dumped or loaded.
 
 <p align = "center">
-  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/xmlfile.png">
+  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/xmlfile.PNG?raw=true">
 </p>
 
 The calibration xml file also has a part you must specify where are the images of calibration and finally if you want to see the calibration or not.  The calibration images will be showed every 500ms and will draw the chessboard pattern over it.  
 
 <p align = "center">
-  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/calibchessboard.png">
+  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/calibchessboard.PNG?raw=true">
 </p>
 
 Also, you could select if you want to see the calibration view or not specifying the `viewCalibration` parameter in the file.
@@ -33,8 +33,8 @@ Here is the screenshots of the current output of this working example after runn
 </p>
 
 <p align = "center">
-  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/results.png">
-  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/camerajson.png">
+  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/results.PNG?raw=true">
+  <img src = "https://github.com/issaiass/CameraCalibration/blob/master/imgs/camerajson.PNG?raw=true">
 </p>
 
 *If you're interested in knowing the details, [have a look at the original documentation.](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_calibration/py_calibration.html)*
