@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf8'?>
+<parameters>
+    <camera>
+        <calibrationFile>config/camera.json</calibrationFile> <!-- Path of the calibration file existing or not -->
+        <!-- Folder where the images are stored, empty if is in the same folder executed -->
+        <imagesFolder>calibimgs</imagesFolder>
+        <viewCalibration>True</viewCalibration>  <!-- View or not the calibration -->
+    </camera>
+</parameters>
